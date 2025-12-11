@@ -9,7 +9,7 @@ from datetime import datetime
 BOT_TOKEN = "<8427993583:AAFV6xE05jZf9dXFzKCwiraTXUvlQFFxQ3M>"
 CHAT_ID = "<6334111219>"
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
-SEND_TELEGRAM = False  # فعّل عند وضع التوكن و chat id
+SEND_TELEGRAM = True  # فعّل عند وضع التوكن و chat id
 # -------------------------------
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
