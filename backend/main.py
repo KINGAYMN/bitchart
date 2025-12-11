@@ -6,8 +6,8 @@ from datetime import datetime
 
 # -------------------------------
 # Configuration (تعديل هنا بسهولة)
-BOT_TOKEN = "<YOUR_BOT_TOKEN>"
-CHAT_ID = "<YOUR_CHAT_ID>"
+BOT_TOKEN = "<8427993583:AAFV6xE05jZf9dXFzKCwiraTXUvlQFFxQ3M>"
+CHAT_ID = "<6334111219>"
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 SEND_TELEGRAM = False  # فعّل عند وضع التوكن و chat id
 # -------------------------------
